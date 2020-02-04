@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohwamahfei.dujinghua.cn/sitemap.xml
